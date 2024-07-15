@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='test-123',
+    name='test_123',
     version='0.1',
     packages=find_packages(),
     install_requires=[
@@ -10,7 +10,7 @@ setup(
     author='Olrox',
     author_email='your.email@example.com',
     description='A brief description of your package',
-    url='https://github.com/maxlevelnpc/test-project',
+    url='https://github.com/maxlevelnpc/test_project',
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
